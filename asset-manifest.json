@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/maythird/static/css/main.8162d58e.css",
-    "main.js": "/maythird/static/js/main.a3dcad8d.js",
+    "main.css": "/maythird/static/css/main.fb499d9c.css",
+    "main.js": "/maythird/static/js/main.4b0e1a13.js",
     "static/js/453.f753475c.chunk.js": "/maythird/static/js/453.f753475c.chunk.js",
     "static/media/ring-light.png": "/maythird/static/media/ring-light.56c34b937ceddfa3fe6c.png",
     "index.html": "/maythird/index.html",
-    "main.8162d58e.css.map": "/maythird/static/css/main.8162d58e.css.map",
-    "main.a3dcad8d.js.map": "/maythird/static/js/main.a3dcad8d.js.map",
+    "main.fb499d9c.css.map": "/maythird/static/css/main.fb499d9c.css.map",
+    "main.4b0e1a13.js.map": "/maythird/static/js/main.4b0e1a13.js.map",
     "453.f753475c.chunk.js.map": "/maythird/static/js/453.f753475c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8162d58e.css",
-    "static/js/main.a3dcad8d.js"
+    "static/css/main.fb499d9c.css",
+    "static/js/main.4b0e1a13.js"
   ]
 }
